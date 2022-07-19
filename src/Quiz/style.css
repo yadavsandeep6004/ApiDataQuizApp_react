@@ -1,0 +1,19 @@
+.quize {
+  padding: 1rem;
+}
+.quize h2 {
+  margin-bottom: 1rem;
+}
+
+.quize ul li {
+  list-style: none;
+  margin-bottom: 0.8rem;
+}
+
+.quize ul li span {
+  margin-left: 0.4rem;
+}
+
+input {
+  cursor: pointer;
+}
